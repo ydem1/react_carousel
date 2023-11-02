@@ -1,0 +1,2 @@
+ul{list-style:none}button,ul{padding:0}.container{width:1300px;display:flex;align-items:center;margin:100px auto 0}.Carousel{width:260px;margin:0 auto;overflow:hidden}.Carousel__list{display:flex;grid-gap:20px;gap:20px;transition:-webkit-transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s}.Carousel__btn-img{width:250px}.Carousel__btn-img--transform-scaleX{-webkit-transform:scaleX(-1);transform:scaleX(-1)}
+/*# sourceMappingURL=main.b94bb778.chunk.css.map */
